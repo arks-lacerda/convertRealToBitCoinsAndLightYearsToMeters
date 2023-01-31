@@ -1,7 +1,6 @@
 <h1 align="center">
   convertRealToBitCoinsAndLightYearsToMeters
 </h1>
-<hr>
 <p align="center">
   Alura's Challenge and I'll get better with time.
 </p>
