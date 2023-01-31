@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Roboto', monospace;
+  text-align: center;
+  background-image: url(https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/Background.png);
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.hide {
+  display: none;
+}
+.containerTwo,
+.container {
+  padding: 2rem;
+}
+
+.page-title {
+  color: #fff;
+  font-size: 3rem;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #fff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 20rem;
+}
+
+.alura-logo {
+  width: 5rem;
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+}
+
+body > img {
+  margin:  0 1rem;
+}
+
+img {
+  max-height: 25rem;
+}
